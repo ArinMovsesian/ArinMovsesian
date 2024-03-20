@@ -1,4 +1,5 @@
 ### Hi there 👋
+Welcome to my Github profile. See anything you like? Be sure to leave a 🌟 on it. Or if you have any interesting open-source project that you'd like to a have partner, drop a message on arin.movsesian on gmail
 
 <!--
 **ArinMovsesian/ArinMovsesian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
